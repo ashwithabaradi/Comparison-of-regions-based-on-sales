@@ -1,2 +1,1 @@
-# Comparison-of-regions-based-on-sales
-This is a Tableau Project
+Designed and optimized Tableau dashboard with interactive visualizations to compare sales metrics across two regions.
